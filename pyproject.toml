@@ -24,7 +24,7 @@ dependencies = ["torch>=2.4"]
 dev = ["pytest>=8"]
 
 [project.urls]
-Homepage = "https://github.com/easonyanyan/rdna4-conv3d-wmma"
+Homepage = "https://github.com/Easonsnowgeorge/rdna4-conv3d-wmma"
 
 [tool.setuptools.packages.find]
 where = ["src"]
